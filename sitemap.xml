@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2016-10-13T07:24:24.129Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2016-10-13T07:23:36.162Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2016-10-13T07:23:16.926Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/404.html</loc>
+    
+    <lastmod>2016-10-13T06:36:16.840Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/hexo.html</loc>
+    
+    <lastmod>2016-10-12T07:18:25.247Z</lastmod>
+    
+  </url>
+  
+</urlset>
