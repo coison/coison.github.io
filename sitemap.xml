@@ -4,7 +4,14 @@
   <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
-    <lastmod>2016-10-13T07:24:24.129Z</lastmod>
+    <lastmod>2016-10-14T10:08:18.928Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/hexo.html</loc>
+    
+    <lastmod>2016-10-14T09:45:45.517Z</lastmod>
     
   </url>
   
@@ -23,7 +30,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/hexo.html</loc>
+    <loc>http://yoursite.com/hellow%20world.html</loc>
     
     <lastmod>2016-10-12T07:18:25.247Z</lastmod>
     
