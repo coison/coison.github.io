@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>卧薪尝胆</title>
+  <title>Coison blog</title>
   <subtitle>笑看风云淡,坐起云拥时</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -9,7 +9,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Ison Chen</name>
+    <name>Coison</name>
     
   </author>
   
